@@ -1,4 +1,4 @@
 streamlit
-shutil
-os
-instaloader
+instaloader==4.9.2
+cryptography
+python-dotenv
